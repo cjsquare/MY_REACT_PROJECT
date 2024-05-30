@@ -6,7 +6,7 @@ class App extends React.Component {
     this.state = {color: "red"};
     }
     render() {
-    return <h2>I am a Car!</h2>;
+    return <h2>I am a Car blu!</h2>;
     }
   }
 
